@@ -1,4 +1,4 @@
-describe ("mitadDeNumero") {
+describe ("") {
   it ("la mitad de 3 es 1.5") {
     should_float(mitad(3.0)) be equal to(1.5);
   } end
