@@ -2,7 +2,7 @@ Gobstones y JavaScript tienen mucho en común. Por ejemplo, en ambos lenguajes p
 
 Sin embargo, siempre que aprendas un lenguaje nuevo, te vas a topar con un pequeño detalle: **tiene una sintaxis diferente** :disappointed_relieved: La buena noticia es que el cambio no será tan terrible como suena, así que veamos nuestra primera función JavaScript:
 
-```c
+```cpp
 float doble(float numero) {
    return 2 * numero;
 }
