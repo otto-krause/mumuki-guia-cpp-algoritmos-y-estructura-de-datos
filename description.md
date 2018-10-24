@@ -1,1 +1,1 @@
-Guía de AyED. En construcción. Ejercicios de la guia de JS pasados a C.
+Guía de AyED. En construcción.
