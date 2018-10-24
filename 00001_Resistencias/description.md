@@ -9,7 +9,11 @@ for (I=0;I<10;I++)
 }
 ```
 En el ejemplo anterior tenemos una variable **I** que tiene 3 valores. El primero es el valor inicial del ciclo, el segundo nos indica hasta que donde se va a repetir. En cuanto a la tercera aparición de la variable, se trata del incremento que va a sufrir por cada una de las veces que se repita.
->**La sentencia for tampoco finaliza con punto y coma.**
+>**La sentencia for, al igual que if y switch, no finaliza con punto y coma.**
+Vamos a poner esto en práctica, para ello te propongo calcular la resistencia total de 5 (cinco) resistencias en serie utilizando como máximo 2 (dos) variables.<br>
+¿Te animás?
+
+
 
 
 
