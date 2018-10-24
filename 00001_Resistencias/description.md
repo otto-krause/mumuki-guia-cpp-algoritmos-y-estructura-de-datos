@@ -1,4 +1,4 @@
-Hasta ahora vimos dos de los tres tipos básicos de estructuras. Las primeras fueron las **secuenciales**, que no son ni más ni menos que aquellas que se ejecutan una después de la otra.<br>Luego comenzamos con las estructuras de **decisión** donde vimos dos tipos de sentencias distintas, **IF** y **SWITCH**.<br> Ahora aparece una pregunta...<br>¿Qué pasa cuando los ingresos son muchos?<br>Para darnos una mano con esto aparecen las estructuras repetitivas.
+Hasta ahora vimos dos de los tres tipos básicos de estructuras. Las primeras fueron las **secuenciales**, que no son ni más ni menos que aquellas que se ejecutan una después de la otra.<br>Luego comenzamos con las estructuras de **decisión** donde vimos dos tipos de sentencias distintas, **IF** y **SWITCH**.<br> Ahora aparece una pregunta...<br>¿Qué pasa cuando los ingresos son muchos?<br>Para darnos una mano con esto aparecen las estructuras repetitivas.<br>
 La primera sentencia que vamos a ver se denomina **FOR** y la utilizaremos siempre que sepamos la cantidad de veces que se va a repetir un bloque de instrucciones.<br>
 La sintaxis en C es la siguiente:<br>
 
@@ -10,7 +10,8 @@ for (I=0;I<10;I++)
 ```
 En el ejemplo anterior tenemos una variable **I** que tiene 3 valores. El primero es el valor inicial del ciclo, el segundo nos indica hasta que donde se va a repetir. En cuanto a la tercera aparición de la variable, se trata del incremento que va a sufrir por cada una de las veces que se repita.
 >**La sentencia for, al igual que if y switch, no finaliza con punto y coma.**
-Vamos a poner esto en práctica, para ello te propongo calcular la resistencia total de 5 (cinco) resistencias en serie utilizando como máximo 2 (dos) variables.<br>
+
+Vamos a poner esto en práctica, para ello te propongo calcular la resistencia total de **5** (cinco) resistencias en serie utilizando como máximo **2** (dos) variables y mostrando el resultado obtenido por pantalla.<br>
 ¿Te animás?
 
 
