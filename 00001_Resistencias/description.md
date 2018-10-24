@@ -1,0 +1,1 @@
+Hasta ahora vimos dos de los tres tipos básicos de estructuras. Las primeras fueron las secuenciales, que no son ni más ni menos que aquellas que se ejecutan una después de la otra.

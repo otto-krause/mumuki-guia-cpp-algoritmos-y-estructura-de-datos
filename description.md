@@ -1,1 +1,1 @@
-Guía de AyED. En construcción.
+Comenzamos con el tercer tipo básico de estructuras, las repetitivas.
