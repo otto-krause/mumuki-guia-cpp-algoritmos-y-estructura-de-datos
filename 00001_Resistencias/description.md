@@ -1,1 +1,1 @@
-Hasta ahora vimos dos de los tres tipos básicos de estructuras. Las primeras fueron las secuenciales, que no son ni más ni menos que aquellas que se ejecutan una después de la otra.
+Hasta ahora vimos dos de los tres tipos básicos de estructuras. Las primeras fueron las **secuenciales**, que no son ni más ni menos que aquellas que se ejecutan una después de la otra.<br>Luego comenzamos con las estructuras de **decisión** donde vimos dos tipos de sentencias distintas, **IF** y **SWITCH**<br>
