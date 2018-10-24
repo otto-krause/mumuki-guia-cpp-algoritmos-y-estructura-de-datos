@@ -3,7 +3,7 @@ La primera sentencia que vamos a ver se denomina **FOR** y la utilizaremos siemp
 La sintaxis en C es la siguiente:<br>
 > **for (I=0;I<10;I++)<br>
 {<br>
-  printf("%d\t", I);<br>
+    printf("%d\t", I);<br>
 }**
 
 
