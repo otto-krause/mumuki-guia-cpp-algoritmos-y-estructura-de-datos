@@ -1,7 +1,7 @@
 Hasta ahora vimos dos tipos diferentes de ciclos, **for y while**, a continuación te vamos a presentar el Do while.<br>
 
 El do while es una estructura repetitiva basada completamente en el while, pero con una pequeña diferencia:
-> ###El do while ejecuta por lo menos un ciclo.
+> #####El do while ejecuta por lo menos un ciclo.
 
 Analicemos el siguiente código:
 
