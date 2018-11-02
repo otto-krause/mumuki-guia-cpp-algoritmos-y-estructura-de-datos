@@ -1,0 +1,1 @@
+Ya vimos las distintas formas de hacer que un bloque de instrucciones se repita.<br> Ahora te proponemos comenzar con la práctica. Queremos que escribas un programa que imprima los números de 0 al 9 con la sentencia con la que más cómodo te sientas (**FOR, WHILE o DO…WHILE**), luego empezaremos a ver las diferencias.<br>¿Comenzamos?
