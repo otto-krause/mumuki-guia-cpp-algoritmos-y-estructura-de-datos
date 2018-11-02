@@ -1,0 +1,1 @@
+Empecemos a complicar más las cosas.<br>Te pedimos que para un curso de 30 alumnos identificados con números del 1 al 30 ingreses las notas correspondientes a 10 materias, para luego calcular el promedio por cada alumno y el promedio general del curso.<br>¿Lo podrás calcular?
