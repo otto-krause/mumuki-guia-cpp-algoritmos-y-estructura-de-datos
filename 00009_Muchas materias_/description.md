@@ -1,0 +1,1 @@
+Si pudiste resolver el ejercicio anterior, no vas a tener problemas con éste.<br>Te pedimos básicamente lo mismo (notas para 30 alumnos identificados del 1 al 30), solo que las materias se ingresan hasta 10 notas o mientras el valor no sea negativo. Lo que se debe mostrar es nuevamente el promedio general y por alumno.<br>¿Lo intentamos?
