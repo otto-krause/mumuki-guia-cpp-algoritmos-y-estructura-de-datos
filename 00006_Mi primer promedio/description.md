@@ -1,1 +1,1 @@
-Ahora te introducimos uno de los clásicos, el cálculo de promedios. Te aconsejamos que te vayas acostumbrando porque los vas a ver bastante por acá. <br>Como en el ejercicio anterior, ingresa 15 números pero esta vez calculá su promedio.
+Ahora te introducimos uno de los clásicos, el cálculo de promedios. Te aconsejamos que te vayas acostumbrando porque los vas a ver bastante por acá. <br>Como en el ejercicio anterior, ingresa 15 números, pero esta vez calculá su promedio.
