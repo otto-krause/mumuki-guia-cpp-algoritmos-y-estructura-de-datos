@@ -1,0 +1,1 @@
+Bien, ahora te proponemos que de una lista que 15 ingresos realizados a través de una estructura repetitiva a elección nos muestres por pantalla cual es el mayor de los números.<br>¡Suerte con el ejercicio!
