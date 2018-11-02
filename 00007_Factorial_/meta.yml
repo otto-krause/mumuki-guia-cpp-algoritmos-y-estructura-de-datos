@@ -7,4 +7,4 @@ extra_visible: false
 language: c
 manual_evaluation: true
 choices: []
-name: Nuevo ejercicio
+name: Factorial.
