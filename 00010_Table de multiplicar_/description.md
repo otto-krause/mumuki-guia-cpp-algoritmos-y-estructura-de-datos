@@ -1,0 +1,1 @@
+Como último ejercicio de estructuras repetitivas te proponemos que dado un numero entero comprendido entre 1 y 10 nos muestres por pantalla su tabla de multiplicar.<br>¿Lo intentamos?
