@@ -1,10 +1,9 @@
 ---
 tags: []
-layout: input_bottom
-editor: code
+layout: :input_bottom
+editor: 0
 type: reading
 extra_visible: false
-language: c
 manual_evaluation: false
 choices: []
 name: Do while...
